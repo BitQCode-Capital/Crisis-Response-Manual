@@ -2,13 +2,9 @@
 
 # Crisis-Response-Manual
 
-Centralized SOPs and workflows for emergency response and escalation.
-
-
-### Standard Operating Procedures for Extreme Events and Disruptions
 
 This repository contains **Standard Operating Procedures (SOPs)** designed to guide our team in responding to **all types of extreme events and operational disruptions** within our crypto algorithmic trading operations.
-Our goal is to **ensure resilience, minimize downtime, and protect capital** during any incident that impacts trading performance, system integrity, or exchange connectivity.
+
 
 ---
 
