@@ -74,7 +74,7 @@ This approach fully neutralized the position while working **within the exchange
 
 ## 🪶 ** Summary Statement**
 
-Documentation, screenshots, and API key validations for new APIs must be completed before live trading. Support teams should be contacted, and all relevant parameters fixed prior to trading start — not during live execution.
+Documentation, screenshots, and API key validations for new APIs must be completed before live trading. Support teams should be contacted, and all relevant parameters fixed prior to trading start — not during live execution. 
 
-A formal pre-trading API key check protocol must be implemented, including: verifying connectivity, permissions, account balances, and performing optional test orders. Sub-accounts or API keys must not be changed mid-strategy to avoid unexpected errors in trade operations.
+ A formal pre-trading API key check protocol must be implemented, including: verifying connectivity, permissions, account balances, and performing optional test orders. Sub-accounts or API keys must not be changed mid-strategy to avoid unexpected errors in trade operations. 
 ---
