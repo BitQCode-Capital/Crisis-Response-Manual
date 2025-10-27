@@ -37,6 +37,11 @@ The incident was triggered by a manual test position placed within the firm’s 
 
 The major incident was **Binance’s restrictive and hidden quantity limits**, which prevented a valid market close order from executing.
 Our trading infrastructure performed as designed, handling authentication, risk checks, and order logic correctly.
+
+During the event, an API key deletion was performed with the intention of safeguarding capital as an emergency response. While this action prevented further unintended trades, it also triggered additional errors in the strategy execution, as the system was unable to access account data or place corrective orders.
+
+Recommendation: Emergency API key actions should be accompanied by pre-defined fail-safe protocols, automated monitoring, and clear communication to all support teams to minimize secondary errors.
+
 The new **chunk-based submission method** serves as a contingency for similar exchange-side limitations, ensuring uninterrupted trade execution even when external APIs behave unexpectedly.
 
 ### **Exchange Response**
