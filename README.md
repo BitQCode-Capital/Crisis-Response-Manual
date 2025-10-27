@@ -19,15 +19,6 @@ These SOPs cover procedures for identifying, mitigating, and recovering from the
 * **Code Errors** — Debugging runtime failures, logic bugs, and model output anomalies affecting live trading.
 * **Employee Errors** — Escalation, incident reporting, and post-mortem analysis for human errors in production.
 
----
-
-## ⚙️ Objectives
-
-* Maintain **continuous trading operations** and minimize exposure during disruptions.
-* Provide **clear, actionable steps** for every failure scenario.
-* Ensure **auditability** and **post-incident accountability**.
-* Promote a culture of **resilience and operational discipline**.
-
 
 ---
 
