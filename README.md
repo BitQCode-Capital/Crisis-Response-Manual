@@ -48,9 +48,9 @@ All incidents must be logged, reviewed, and incorporated into continuous improve
 
 | Name           | Role                           | Contact                                           | Responsibility                                                                 |
 | -------------- | ------------------------------ | ------------------------------------------------- | ------------------------------------------------------------------------------ |
-| **Naman Jain**  | Head of Trading Operations     | 9424566964 / naman@bitqcode.com   | Lead coordinator during exchange or trading-related incidents.                 |
-| **Pawan Sharma** | Lead Developer, Infrastructure | 9243192612/pawan@bitqcode.com | Handles API, codebase, and infrastructure-related disruptions.                 |
-| **Siddharth Dixit**  | Compliance & Risk Manager      | 9821325780/sid@bitqcode.com   | Oversees regulatory reporting, post-incident reviews, and employee escalation. |
+| **Naman Jain**  | Research    | 9424566964 / naman@bitqcode.com   | All Operation related Issues.                 |
+| **Pawan Sharma** | Research | 9243192612/pawan@bitqcode.com | All Operation related Issues.                 |
+| **Siddharth Dixit**  | Code      | 9821325780/sid@bitqcode.com   | All code related Issues. 
 
 > In case of **critical incidents**, notify all points of contact via the internal alert system and follow the **Escalation Protocol** in `/operations-errors/Escalation.md`.
 
