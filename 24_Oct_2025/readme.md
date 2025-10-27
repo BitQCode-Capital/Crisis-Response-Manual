@@ -35,7 +35,7 @@ A temporary workaround was deployed that submitted several smaller orders sequen
 
 The incident was triggered by a manual test position placed within the firm’s internal matching engine (for documentation and screenshot purposes). The mismatch caused the internal matching logic to enter a large short position on Binance Futures.
 
-The major incident was **Binance’s restrictive and undocumented quantity limits**, which prevented a valid market close order from executing.
+The major incident was **Binance’s restrictive and hidden quantity limits**, which prevented a valid market close order from executing.
 Our trading infrastructure performed as designed, handling authentication, risk checks, and order logic correctly.
 The new **chunk-based submission method** serves as a contingency for similar exchange-side limitations, ensuring uninterrupted trade execution even when external APIs behave unexpectedly.
 
