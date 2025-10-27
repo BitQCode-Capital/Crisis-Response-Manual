@@ -40,8 +40,6 @@ Our trading infrastructure performed as designed, handling authentication, risk 
 
 During the event, an API key deletion was performed with the intention of safeguarding capital as an emergency response. While this action prevented further unintended trades, it also triggered additional errors in the strategy execution, as the system was unable to access account data or place corrective orders.
 
-Recommendation: Emergency API key actions should be accompanied by pre-defined fail-safe protocols, automated monitoring, and clear communication to all support teams to minimize secondary errors.
-
 The new **chunk-based submission method** serves as a contingency for similar exchange-side limitations, ensuring uninterrupted trade execution even when external APIs behave unexpectedly.
 
 ### **Exchange Response**
@@ -81,5 +79,5 @@ This approach fully neutralized the position while working **within the exchange
 
 Documentation, screenshots, and API key validations for new APIs must be completed before live trading. Support teams should be contacted, and all relevant parameters fixed prior to trading start — not during live execution. 
 
- A formal pre-trading API key check protocol must be implemented, including: verifying connectivity, permissions, account balances, and performing optional test orders. Sub-accounts or API keys must not be changed/deleted mid-strategy to avoid unexpected errors in trade operations. 
+ A formal pre-trading API key check protocol must be implemented, including: verifying connectivity, permissions, account balances, and performing optional test orders. Sub-accounts or API keys must not be changed/deleted mid-strategy to avoid unexpected errors in trade operations , Emergency API key actions should be accompanied by pre-defined fail-safe protocols, clear communication to all support teams to minimize secondary errors.
 ---
