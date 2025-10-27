@@ -4,10 +4,15 @@
 # 🧾 Post-Mortem Report — Binance Position Closure Limitation
 
 **Date:** 24-10-2025 
+
 **Service:** Crypto Algorithmic Trading (Binance Futures) - M.G.
+
 **Incident:** Exchange Rejection on Position Closure — `SOL/USDT:USDT`
+
 **Severity:** Medium to High (Exchange-Driven Delay)
+
 **Duration:** 30-45 minutes
+
 
 ---
 
