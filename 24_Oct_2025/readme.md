@@ -1,7 +1,7 @@
 
 ---
 
-# 🧾 Post-Mortem Report — Binance Position Closure Limitation
+# 🧾 Post-Mortem Report — Manual Mismatch - Binance Position Closure Limitation - Active API Key Deletion
 
 **Date:** 24-10-2025 
 
