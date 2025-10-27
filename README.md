@@ -36,7 +36,7 @@ All incidents must be logged, reviewed, and incorporated into continuous improve
 | Name           | Role                           | Contact                                           | Responsibility                                                                 |
 | -------------- | ------------------------------ | ------------------------------------------------- | ------------------------------------------------------------------------------ |
 | **Naman Jain**  | Research    | 📞 +91-9424566964 / naman@bitqcode.com   | All Strategy related Issues.                 |
-| **Pawan Sharma** | Research | 📞 +91-9243192612/pawan@bitqcode.com | All Strategy related Issues.                 |
+| **Pavan Sharma** | Research | 📞 +91-9243192612/pawan@bitqcode.com | All Strategy related Issues.                 |
 | **Siddharth Dixit**  | Tech      | 📞 +91-9821325780/sid@bitqcode.com   | All Code related Issues. 
 
 > In case of critical incidents, notify all points of contact immediately via phone and follow the Escalation Protocol.
