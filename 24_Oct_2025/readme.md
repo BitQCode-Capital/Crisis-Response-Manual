@@ -72,7 +72,7 @@ This approach fully neutralized the position while working **within the exchange
 
 ---
 
-## 🪶 ** Summary Statement**
+## 🪶 **Summary Statement**
 
 Documentation, screenshots, and API key validations for new APIs must be completed before live trading. Support teams should be contacted, and all relevant parameters fixed prior to trading start — not during live execution. 
 
