@@ -48,7 +48,7 @@ All incidents must be logged, reviewed, and incorporated into continuous improve
 | **Pawan Sharma** | Research | 9243192612/pawan@bitqcode.com | All Operation related Issues.                 |
 | **Siddharth Dixit**  | Code      | 9821325780/sid@bitqcode.com   | All code related Issues. 
 
-> In case of **critical incidents**, notify all points of contact via the internal alert system and follow the **Escalation Protocol** in `/operations-errors/Escalation.md`.
+> In case of critical incidents, notify all points of contact immediately via phone and follow the Escalation Protocol.
 
 ---
 
